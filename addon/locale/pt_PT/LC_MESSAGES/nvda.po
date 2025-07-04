@@ -93,6 +93,10 @@ msgstr "Suprimir os anúncios do modo scroll lock"
 msgid "NVDA process system priority:"
 msgstr "Prioridade do sistema de processo NVDA:"
 
+#. checkbox enable apps volume
+msgid "Enable applications volume adjustment (requires restart)"
+msgstr ""
+
 msgid "Error"
 msgstr "Erro"
 
@@ -232,6 +236,11 @@ msgstr "Mostrar o histórico da área de transferência"
 
 #. Translators: Describes a command.
 msgid "Increases the volume of other applications"
+msgstr ""
+
+msgid ""
+"Applications volume feature of Tony's enhancements add-on is disabled. "
+"Please enable it in settings first."
 msgstr ""
 
 #. Translators: Describes a command.

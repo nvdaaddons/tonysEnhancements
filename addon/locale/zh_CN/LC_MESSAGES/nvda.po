@@ -88,6 +88,10 @@ msgstr "禁止朗读滚动锁定模式"
 msgid "NVDA process system priority:"
 msgstr "NVDA 进程优先级："
 
+#. checkbox enable apps volume
+msgid "Enable applications volume adjustment (requires restart)"
+msgstr ""
+
 msgid "Error"
 msgstr "错误"
 
@@ -225,6 +229,11 @@ msgstr "显示剪贴板历史记录"
 
 #. Translators: Describes a command.
 msgid "Increases the volume of other applications"
+msgstr ""
+
+msgid ""
+"Applications volume feature of Tony's enhancements add-on is disabled. "
+"Please enable it in settings first."
 msgstr ""
 
 #. Translators: Describes a command.

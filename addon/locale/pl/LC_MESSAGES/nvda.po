@@ -91,6 +91,10 @@ msgstr "Nie wymawiaj stanu klawisza scroll lock"
 msgid "NVDA process system priority:"
 msgstr "Priorytet procesu NVDA w systemie:"
 
+#. checkbox enable apps volume
+msgid "Enable applications volume adjustment (requires restart)"
+msgstr ""
+
 msgid "Error"
 msgstr "Błąd"
 
@@ -228,6 +232,11 @@ msgstr "Pokaż historię schowka"
 
 #. Translators: Describes a command.
 msgid "Increases the volume of other applications"
+msgstr ""
+
+msgid ""
+"Applications volume feature of Tony's enhancements add-on is disabled. "
+"Please enable it in settings first."
 msgstr ""
 
 #. Translators: Describes a command.
