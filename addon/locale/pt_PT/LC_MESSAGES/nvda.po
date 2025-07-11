@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tonysEnhancements 1.16\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2024-02-02 20:25+0000\n"
-"PO-Revision-Date: 2025-04-25 20:10+0100\n"
+"PO-Revision-Date: 2025-07-06 19:04+0100\n"
 "Last-Translator: Ângelo Abrantes <ampa4374@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_PT\n"
@@ -95,7 +95,7 @@ msgstr "Prioridade do sistema de processo NVDA:"
 
 #. checkbox enable apps volume
 msgid "Enable applications volume adjustment (requires restart)"
-msgstr ""
+msgstr "Ativar o ajuste do volume das aplicações (requer reinício)"
 
 msgid "Error"
 msgstr "Erro"
@@ -236,29 +236,31 @@ msgstr "Mostrar o histórico da área de transferência"
 
 #. Translators: Describes a command.
 msgid "Increases the volume of other applications"
-msgstr ""
+msgstr "Aumenta o volume de outras aplicações"
 
 msgid ""
 "Applications volume feature of Tony's enhancements add-on is disabled. "
 "Please enable it in settings first."
 msgstr ""
+"A funcionalidade de volume de aplicações do complemento de melhoramentos do "
+"Tony está desactivada. Active-a primeiro nas definições."
 
 #. Translators: Describes a command.
 msgid "Decreases the volume of other applications"
-msgstr ""
+msgstr "Diminui o volume de outras aplicações"
 
 #. Translators: Describes a command.
 msgid "Mutes or unmutes other applications"
-msgstr ""
+msgstr "Silencia ou não silencia outras aplicações"
 
 msgid "Increases the volume of NVDA"
-msgstr ""
+msgstr "Aumenta o volume do NVDA"
 
 msgid "{} percent NVDA volume"
-msgstr ""
+msgstr "{} percentagem do volume da NVDA"
 
 msgid "Decreases the volume of NVDA"
-msgstr ""
+msgstr "Diminui o volume do NVDA"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on

@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: tonysEnhancements 1.16\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2024-02-02 20:25+0000\n"
-"PO-Revision-Date: 2025-06-10 22:19+0300\n"
+"PO-Revision-Date: 2025-07-05 11:28+0300\n"
 "Last-Translator: Ruslan Kolodyazhni <rupelodn@gmail.com>\n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -95,7 +95,7 @@ msgstr "Системный приоритет процесса NVDA:"
 
 #. checkbox enable apps volume
 msgid "Enable applications volume adjustment (requires restart)"
-msgstr ""
+msgstr "Разрешить регулировку громкости приложений (требуется перезапуск)"
 
 msgid "Error"
 msgstr "Ошибка"
@@ -243,6 +243,8 @@ msgid ""
 "Applications volume feature of Tony's enhancements add-on is disabled. "
 "Please enable it in settings first."
 msgstr ""
+"Функция громкости дополнения улучшений от Тони отключена. Сначала разрешите "
+"её в настройках."
 
 #. Translators: Describes a command.
 msgid "Decreases the volume of other applications"

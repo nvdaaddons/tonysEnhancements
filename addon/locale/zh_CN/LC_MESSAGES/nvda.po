@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: 'tonysEnhancements' '1.16'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
 "POT-Creation-Date: 2023-09-13 06:30+0800\n"
-"PO-Revision-Date: 2025-02-02 18:10+0800\n"
+"PO-Revision-Date: 2025-07-09 10:27+0800\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 msgid "Normal,Above normal,High,Realtime"
 msgstr "正常,高于正常,高,实时"
@@ -90,7 +90,7 @@ msgstr "NVDA 进程优先级："
 
 #. checkbox enable apps volume
 msgid "Enable applications volume adjustment (requires restart)"
-msgstr ""
+msgstr "启用应用程序音量调节（需要重新启动）"
 
 msgid "Error"
 msgstr "错误"
@@ -229,29 +229,29 @@ msgstr "显示剪贴板历史记录"
 
 #. Translators: Describes a command.
 msgid "Increases the volume of other applications"
-msgstr ""
+msgstr "增大其他应用程序的音量"
 
 msgid ""
 "Applications volume feature of Tony's enhancements add-on is disabled. "
 "Please enable it in settings first."
-msgstr ""
+msgstr "已禁用应用程序音量调节功能。请先在设置中启用。"
 
 #. Translators: Describes a command.
 msgid "Decreases the volume of other applications"
-msgstr ""
+msgstr "减小其他应用程序的音量"
 
 #. Translators: Describes a command.
 msgid "Mutes or unmutes other applications"
-msgstr ""
+msgstr "静音或取消静音其他应用程序"
 
 msgid "Increases the volume of NVDA"
-msgstr ""
+msgstr "增大NVDA音量"
 
 msgid "{} percent NVDA volume"
-msgstr ""
+msgstr "{} NVDA音量"
 
 msgid "Decreases the volume of NVDA"
-msgstr ""
+msgstr "减小NVDA音量"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on
